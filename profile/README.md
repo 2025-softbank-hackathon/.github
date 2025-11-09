@@ -57,12 +57,12 @@
 <h3 align="center"><em>なぜこのテーマを選んだのか？</em></h3>
 
 > “배포 과정을 스트레스가 아닌 즐거운 경험으로 전환하자.”
-
-* ✅ **시간 효율화**: 전체 CI/CD를 항상 실행하지 않고 필요한 Step만 선택해 배포 시간 단축
-* ✅ **Fun-to-Deploy**: 대시보드 시각화·애니메이션·BGM으로 배포를 이벤트화
-* ✅ **Slack 통합 제어**: Slash Command로 워크플로우별 유연한 배포 관리
-* ✅ **실시간 피드백**: 배포 상태를 시각화하고 Slack 알림으로 즉각 확인
-
+>
+> * ✅ **시간 효율화**: 전체 CI/CD를 항상 실행하지 않고 필요한 Step만 선택해 배포 시간 단축
+> * ✅ **Fun-to-Deploy**: 대시보드 시각화·애니메이션·BGM으로 배포를 이벤트화
+> * ✅ **Slack 통합 제어**: Slash Command로 워크플로우별 유연한 배포 관리
+> * ✅ **실시간 피드백**: 배포 상태를 시각화하고 Slack 알림으로 즉각 확인
+>
 > 반복적인 배포 과정을 **“보는 재미와 안정성이 공존하는 경험”**으로 재구성.
 
 ---
@@ -78,12 +78,12 @@
   <img width="90%" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/2ef69f6b-d853-4ced-9cbc-e368f9d8ff46" />
 </p>
 
-* ✅ CloudFront + S3 정적 리소스 배포
-* ✅ WAF + ALB 통한 HTTPS 트래픽 보호
-* ✅ 멀티 AZ Blue/Green ASG로 고가용성 확보
-* ✅ Redis Pub/Sub으로 실시간 메시징
-* ✅ DynamoDB로 로그 관리 및 확장성 확보
-* ✅ CloudWatch 기반 모니터링 및 알림 시스템
+> * ✅ CloudFront + S3 정적 리소스 배포
+> * ✅ WAF + ALB 통한 HTTPS 트래픽 보호
+> * ✅ 멀티 AZ Blue/Green ASG로 고가용성 확보
+> * ✅ Redis Pub/Sub으로 실시간 메시징
+> * ✅ DynamoDB로 로그 관리 및 확장성 확보
+> * ✅ CloudWatch 기반 모니터링 및 알림 시스템
 
 ---
 
@@ -94,28 +94,28 @@
 </p>
 
 > GitHub → CodePipeline → CodeBuild → CodeDeploy → EC2 (Blue/Green)
-
-1.  **Source**: GitHub에서 소스 아티팩트 생성
-2.  **Test (Optional)**: 단위 테스트 수행
-3.  **Build**: `.jar` 빌드 및 ECR 업로드
-4.  **Deploy**: CodeDeploy가 ASG를 관리하며 헬스체크 후 트래픽 전환
+>
+> 1.  **Source**: GitHub에서 소스 아티팩트 생성
+> 2.  **Test (Optional)**: 단위 테스트 수행
+> 3.  **Build**: `.jar` 빌드 및 ECR 업로드
+> 4.  **Deploy**: CodeDeploy가 ASG를 관리하며 헬스체크 후 트래픽 전환
 
 <p align="center">
   <img width="90%" alt="CD Diagram" src="https://github.com/user-attachments/assets/3bd8f6fe-7f11-4d70-98b8-1798c3036999" />
 </p>
 
-* Blue ASG 유지, Green ASG 신규 생성
-* CodeDeploy Agent가 ECR 이미지 가져와 배포
-* 모든 인스턴스 헬스체크 통과 후 ALB 트래픽 전환
-* 일정 시간 안정화 후 Blue 종료 (Rollback 대비)
+> * Blue ASG 유지, Green ASG 신규 생성
+> * CodeDeploy Agent가 ECR 이미지 가져와 배포
+> * 모든 인스턴스 헬스체크 통과 후 ALB 트래픽 전환
+> * 일정 시간 안정화 후 Blue 종료 (Rollback 대비)
 
 ---
 
 ## 💬 Slack 연동 워크플로우
 
-* Slash Command 기반 배포 제어
-* 커밋 메시지 `deploy: auto` 시 자동 트리거
-* Slack 알림 내 `Go to Dashboard` 버튼으로 이동
+> * Slash Command 기반 배포 제어
+> * 커밋 메시지 `deploy: auto` 시 자동 트리거
+> * Slack 알림 내 `Go to Dashboard` 버튼으로 이동
 
 <p align="center">
   <img width="100%" alt="Slack CI Options" src="https://github.com/user-attachments/assets/25260920-86fb-43aa-9309-f24d73be48e0" />
@@ -128,9 +128,9 @@
 
 ## 📊 Observability Dashboard
 
-* CloudWatch Logs / Metrics로 EC2 로그, CPU 사용률, 메모리 모니터링
-* Lambda 기반 Slack 알림 전송
-* WebSocket을 통해 실시간 대시보드 업데이트
+> * CloudWatch Logs / Metrics로 EC2 로그, CPU 사용률, 메모리 모니터링
+> * Lambda 기반 Slack 알림 전송
+> * WebSocket을 통해 실시간 대시보드 업데이트
 
 <p align="center">
   <img width="90%" alt="Observability" src="https://github.com/user-attachments/assets/4287b2f4-1844-4d0b-bcd7-8bbb20197430" />
