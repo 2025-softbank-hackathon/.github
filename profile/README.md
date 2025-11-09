@@ -65,14 +65,16 @@
   <img width="900" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/2ef69f6b-d853-4ced-9cbc-e368f9d8ff46" />
 </p>
 
-<p align="center">
-✅ <strong>CloudFront + S3</strong>로 정적 리소스 배포
-✅ <strong>WAF + ALB</strong>를 통한 HTTPS 트래픽 보호
-✅ <strong>멀티 AZ Blue/Green ASG</strong>로 고가용성 확보
-✅ <strong>Redis Pub/Sub</strong>으로 실시간 메시징
-✅ <strong>DynamoDB</strong>로 메시지 로그 관리 및 확장성 확보
-✅ <strong>CloudWatch</strong> 기반 모니터링 및 알림 시스템
-</p>
+<table align="center"><tr><td align="center">
+
+✅ CloudFront + S3 정적 리소스 배포  
+✅ WAF + ALB 통한 HTTPS 트래픽 보호  
+✅ 멀티 AZ Blue/Green ASG로 고가용성 확보  
+✅ Redis Pub/Sub으로 실시간 메시징  
+✅ DynamoDB로 로그 관리 및 확장성 확보  
+✅ CloudWatch 기반 모니터링 및 알림 시스템
+
+</td></tr></table>
 
 <hr>
 
