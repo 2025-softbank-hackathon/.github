@@ -54,7 +54,26 @@
 <h3 align="center">SoftBank Hackathon 2025 | 팀 `Orange`</h3>
 
 <br>
-<img width="100%" alt="스크린샷 2025-11-10 00 42 55" src="https://github.com/user-attachments/assets/771e916d-5c4f-4edd-b97c-4061c5c739d9" />
+## 프로젝트 개요
+
+<table>
+<tr>
+<td width="50%">
+
+### 기본 정보
+- **팀명**: ORANGE
+- **행사**: SoftBank Hackathon 2025
+- **기간**: 2025.10 ~ 2025.11
+- **주제**: Fun-to-Deploy: 즐거운 배포 경험 구현
+
+</td>
+<td width="50%">
+
+<img width="100%" alt="프로젝트 메인 이미지" src="https://github.com/user-attachments/assets/771e916d-5c4f-4edd-b97c-4061c5c739d9" />
+
+</td>
+</tr>
+</table>
 
 ## 🎯 테마
 <h3 align="center"><em>なぜこのテーマを選んだのか？</em></h3>
