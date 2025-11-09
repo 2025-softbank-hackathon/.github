@@ -44,13 +44,13 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <img width="750" alt="Chat Service Screenshot" src="https://github.com/user-attachments/assets/c092d1fa-7970-4339-a0ab-76cb129ef7b0" />
+</p>
 
-<img width="750" alt="Chat Service Screenshot" src="https://github.com/user-attachments/assets/c092d1fa-7970-4339-a0ab-76cb129ef7b0" />
-<br><br>
-<img width="1000" alt="Service Flow" src="https://github.com/user-attachments/assets/647ac935-7678-4b67-b626-5f08ff5abaf9" />
-
-</div>
+<p align="center">
+  <img width="1000" alt="Service Flow" src="https://github.com/user-attachments/assets/647ac935-7678-4b67-b626-5f08ff5abaf9" />
+</p>
 
 ---
 
@@ -97,11 +97,9 @@
 
 ---
 
-<div align="center">
-
-<img width="1000" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/2ef69f6b-d853-4ced-9cbc-e368f9d8ff46" />
-
-</div>
+<p align="center">
+  <img width="1000" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/2ef69f6b-d853-4ced-9cbc-e368f9d8ff46" />
+</p>
 
 ✅ **CloudFront + S3**로 정적 리소스 배포  
 ✅ **WAF + ALB**로 보호된 HTTPS 환경 구성  
@@ -119,7 +117,9 @@
 
 </div>
 
-<img width="1200" alt="CI Pipeline" src="https://github.com/user-attachments/assets/5ed05219-2544-4604-9a63-de573c2eee00" />
+<p align="center">
+  <img width="1200" alt="CI Pipeline" src="https://github.com/user-attachments/assets/5ed05219-2544-4604-9a63-de573c2eee00" />
+</p>
 
 > GitHub(prod) → CodePipeline → CodeBuild → CodeDeploy → EC2 (Blue/Green)
 
@@ -137,9 +137,17 @@
 - `deploy: auto` 커밋 시 자동 트리거  
 - Slack 알림에 `Go to Dashboard` 버튼 제공  
 
-<img width="1200" alt="Slack CI Options" src="https://github.com/user-attachments/assets/25260920-86fb-43aa-9309-f24d73be48e0" />
-<img width="1400" alt="Slack Notification" src="https://github.com/user-attachments/assets/3c9102a5-d48f-4a2e-935a-a2464229efc7" />
-<img width="600" alt="Deploy Ready" src="https://github.com/user-attachments/assets/569c0936-52ad-48f6-8459-da4c1dafff74" />
+<p align="center">
+  <img width="1200" alt="Slack CI Options" src="https://github.com/user-attachments/assets/25260920-86fb-43aa-9309-f24d73be48e0" />
+</p>
+
+<p align="center">
+  <img width="1400" alt="Slack Notification" src="https://github.com/user-attachments/assets/3c9102a5-d48f-4a2e-935a-a2464229efc7" />
+</p>
+
+<p align="center">
+  <img width="600" alt="Deploy Ready" src="https://github.com/user-attachments/assets/569c0936-52ad-48f6-8459-da4c1dafff74" />
+</p>
 
 ---
 
@@ -156,8 +164,13 @@
 | 평균 응답 시간 | 60ms |
 | 최대 응답 시간 | 400ms |
 
-<img width="1000" alt="Load Test Process" src="https://github.com/user-attachments/assets/cd9e3172-74a3-496b-85cf-72ade5660f20" />
-<img width="600" alt="Load Test Result" src="https://github.com/user-attachments/assets/5970165f-b3a3-41ed-94cb-748bf6518d01" />
+<p align="center">
+  <img width="1000" alt="Load Test Process" src="https://github.com/user-attachments/assets/cd9e3172-74a3-496b-85cf-72ade5660f20" />
+</p>
+
+<p align="center">
+  <img width="600" alt="Load Test Result" src="https://github.com/user-attachments/assets/5970165f-b3a3-41ed-94cb-748bf6518d01" />
+</p>
 
 ---
 
@@ -172,9 +185,17 @@
 - Health Check 통과 시 **ALB 트래픽 전환 (All-at-once)**  
 - Green 안정화 후 Blue 종료 (롤백 대비 일시 유지)
 
-<img width="800" alt="CD Diagram" src="https://github.com/user-attachments/assets/3bd8f6fe-7f11-4d70-98b8-1798c3036999" />
-<img width="1000" alt="Deploy Status 1" src="https://github.com/user-attachments/assets/172e54b3-5683-41bc-b1b3-de659aa84802" />
-<img width="1000" alt="Deploy Status 2" src="https://github.com/user-attachments/assets/6dcb5db2-b838-4b2c-9487-6afb1829073b" />
+<p align="center">
+  <img width="800" alt="CD Diagram" src="https://github.com/user-attachments/assets/3bd8f6fe-7f11-4d70-98b8-1798c3036999" />
+</p>
+
+<p align="center">
+  <img width="1000" alt="Deploy Status 1" src="https://github.com/user-attachments/assets/172e54b3-5683-41bc-b1b3-de659aa84802" />
+</p>
+
+<p align="center">
+  <img width="1000" alt="Deploy Status 2" src="https://github.com/user-attachments/assets/6dcb5db2-b838-4b2c-9487-6afb1829073b" />
+</p>
 
 ---
 
@@ -196,8 +217,13 @@
 - S3 정적 호스팅 → CloudFront 배포 → Route53 서브도메인 연결  
 - Slack 알림 버튼으로 바로 대시보드 접근  
 
-<img width="800" alt="Observability" src="https://github.com/user-attachments/assets/4287b2f4-1844-4d0b-bcd7-8bbb20197430" />
-<img width="400" alt="Dashboard Open" src="https://github.com/user-attachments/assets/7b3fd80b-19d2-4bbd-8afe-82ab2b089996" />
+<p align="center">
+  <img width="800" alt="Observability" src="https://github.com/user-attachments/assets/4287b2f4-1844-4d0b-bcd7-8bbb20197430" />
+</p>
+
+<p align="center">
+  <img width="400" alt="Dashboard Open" src="https://github.com/user-attachments/assets/7b3fd80b-19d2-4bbd-8afe-82ab2b089996" />
+</p>
 
 ---
 
