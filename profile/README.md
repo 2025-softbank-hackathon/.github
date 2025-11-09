@@ -52,10 +52,10 @@
 <h3 align="center">SoftBank Hackathon 2025 | 팀 `Orange`</h3>
 
 <br>
-
+<div align="center">
 ## 🎯 왜 이 테마를 선택했는가?
 <h3 align="center"><em>なぜこのテーマを選んだのか？</em></h3>
-
+</div>
 > <font color="white">“배포 과정을 스트레스가 아닌 즐거운 경험으로 전환하자.”</font>
 >
 > * ✅ <font color="white">**시간 효율화**: 전체 CI/CD를 항상 실행하지 않고 필요한 Step만 선택해 배포 시간 단축</font>
@@ -66,9 +66,9 @@
 > <font color="white">반복적인 배포 과정을 **“보는 재미와 안정성이 공존하는 경험”**으로 재구성.</font>
 
 ---
-
+<div align="center">
 ## 🏗️ 아키텍처 (Architecture Overview)
-
+</div>
 > <font color="white">Terraform 기반 IaC를 통해</font>
 > <font color="white">**ASG Blue-Green 무중단 배포**, **VPC 네트워킹**, **CI/CD 자동화**, **Observability 구축**을 수행했습니다.</font>
 > <font color="white">전체 인프라는 **AWS Well-Architected Framework 6대 원칙**</font>
@@ -86,9 +86,9 @@
 > * ✅ <font color="white">CloudWatch 기반 모니터링 및 알림 시스템</font>
 
 ---
-
+<div align="center">
 ## 🚀 CI/CD & Blue/Green Deployment
-
+</div>
 <p align="center">
   <img width="100%" alt="CI Pipeline" src="https://github.com/user-attachments/assets/5ed05219-2544-4604-9a63-de573c2eee00" />
 </p>
@@ -110,9 +110,9 @@
 > * <font color="white">일정 시간 안정화 후 Blue 종료 (Rollback 대비)</font>
 
 ---
-
+<div align="center">
 ## 💬 Slack 연동 워크플로우
-
+</div>
 > * <font color="white">Slash Command 기반 배포 제어</font>
 > * <font color="white">커밋 메시지 `deploy: auto` 시 자동 트리거</font>
 > * <font color="white">Slack 알림 내 `Go to Dashboard` 버튼으로 이동</font>
@@ -125,9 +125,9 @@
 </p>
 
 ---
-
+<div align="center">
 ## 📊 Observability Dashboard
-
+</div>
 > * <font color="white">CloudWatch Logs / Metrics로 EC2 로그, CPU 사용률, 메모리 모니터링</font>
 > * <font color="white">Lambda 기반 Slack 알림 전송</font>
 > * <font color="white">WebSocket을 통해 실시간 대시보드 업데이트</font>
@@ -156,9 +156,9 @@
 </p>
 
 ---
-
+<div align="center">
 ## 🏆 핵심 성과
-
+</div>
 <div align="center">
 
 | 영역 | 성과 |
@@ -171,9 +171,9 @@
 </div>
 
 ---
-
+<div align="center">
 ## 📅 프로젝트 정보
-
+</div>
 <div align="center">
 
 | 구분 | 내용 |
