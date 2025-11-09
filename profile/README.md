@@ -3,6 +3,7 @@
 # 🌩️ 2025 소프트뱅크 해커톤
 > <font color="white">“클라우드로 미래를 만들다”</font>
 
+---
 <br>
 
 ### ☁️ Infra & Orchestration
