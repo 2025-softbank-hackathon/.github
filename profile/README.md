@@ -36,7 +36,7 @@
 
 <hr>
 
-<h3 align="center">SoftBank Hackathon 2025 | 팀 `CloudWave`</h3>
+<h3 align="center">SoftBank Hackathon 2025 | 팀 `Orange`</h3>
 
 <br>
 
