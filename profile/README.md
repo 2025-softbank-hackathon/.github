@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🌩️ 2025 소프트뱅크 해커톤
+<h2 align="center">SoftBank Hackathon 2025 | 팀 `Orange`</h2>
 > <font color="white">“클라우드로 미래를 만들다”</font>
 
 <br>
