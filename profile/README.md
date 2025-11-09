@@ -118,13 +118,13 @@
 > * <font color="white">Slack 알림 내 `Go to Dashboard` 버튼으로 이동</font>
 
 <p align="center">
+  <img width="100%" alt="스크린샷 2025-11-10 00 32 42" src="https://github.com/user-attachments/assets/979ef4ff-b912-4ce6-9468-5165cebf6db5" />
+</p>
+<p align="center">
   <img width="100%" alt="Slack CI Options" src="https://github.com/user-attachments/assets/25260920-86fb-43aa-9309-f24d73be48e0" />
 </p>
 <p align="center">
   <img width="100%" alt="Slack Notification" src="https://github.com/user-attachments/assets/3c9102a5-d48f-4a2e-935a-a2464229efc7" />
-</p>
-<p align="center">
-  <img width="687" height="536" alt="스크린샷 2025-11-10 00 32 42" src="https://github.com/user-attachments/assets/979ef4ff-b912-4ce6-9468-5165cebf6db5" />
 </p>
 ---
 
