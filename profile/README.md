@@ -69,10 +69,10 @@
 
 ## 🏗️ 아키텍처 (Architecture Overview)
 
-> <font color="white">Terraform 기반 IaC를 통해</font>
-> <font color="white">**ASG Blue-Green 무중단 배포**, **VPC 네트워킹**, **CI/CD 자동화**, **Observability 구축**</font>
-> <font color="white">전체 인프라는 **AWS Well-Architected Framework 6대 원칙**</font>
-> <font color="white">(운영 우수성, 보안, 신뢰성, 성능 효율, 비용 최적화, 지속 가능성)에 기반해 설계.</font>
+> * ✅ <font color="white">Terraform 기반 IaC를 통해</font>
+> * ✅ <font color="white">ASG Blue-Green 무중단 배포, VPC 네트워킹, CI/CD 자동화, Observability 구축</font>
+> * ✅<font color="white">전체 인프라는 AWS Well-Architected Framework 6대 원칙</font>
+> * ✅ <font color="white">(운영 우수성, 보안, 신뢰성, 성능 효율, 비용 최적화, 지속 가능성)에 기반해 설계.</font>
 
 <p align="center">
   <img width="90%" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/2ef69f6b-d853-4ced-9cbc-e368f9d8ff46" />
