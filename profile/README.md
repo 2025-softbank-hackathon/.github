@@ -172,7 +172,7 @@
 
 | 구분 | 내용 |
 | :---: | :--- |
-| 팀명 | `CloudWave` |
+| 팀명 | `ORANGE` |
 | 행사 | SoftBank Hackathon 2025 |
 | 주제 | Fun-to-Deploy: 즐거운 배포 경험 구현 |
 | 기간 | 2025.10 ~ 2025.11 |
