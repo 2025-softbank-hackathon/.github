@@ -123,7 +123,9 @@
 <p align="center">
   <img width="100%" alt="Slack Notification" src="https://github.com/user-attachments/assets/3c9102a5-d48f-4a2e-935a-a2464229efc7" />
 </p>
-
+<p align="center">
+  <img width="687" height="536" alt="스크린샷 2025-11-10 00 32 42" src="https://github.com/user-attachments/assets/979ef4ff-b912-4ce6-9468-5165cebf6db5" />
+</p>
 ---
 
 ## 📊 Observability Dashboard
