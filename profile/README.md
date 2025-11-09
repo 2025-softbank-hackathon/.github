@@ -174,6 +174,7 @@
 ## 📅 프로젝트 정보
 
 <div align="center">
+<img width="685" height="833" alt="채팅서비스" src="https://github.com/user-attachments/assets/bdf8eea0-5319-43ef-955f-1bc2b400a2e2" />
 
 | 구분 | 내용 |
 | :---: | :--- |
