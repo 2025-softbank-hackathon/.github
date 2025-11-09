@@ -140,12 +140,16 @@
 
 ## 📈 부하 테스트 결과
 
+<div align="center">
+
 | 항목 | 결과 |
 |:---:|:---:|
 | 테스트 인원 | 100명 |
 | RPS | 10 × (1…3) |
 | 평균 응답 시간 | 60ms |
 | 최대 응답 시간 | 400ms |
+
+</div>
 
 <p align="center">
   <img width="80%" alt="Load Test Result" src="https://github.com/user-attachments/assets/5970165f-b3a3-41ed-94cb-748bf6518d01" />
@@ -155,6 +159,8 @@
 
 ## 🏆 핵심 성과
 
+<div align="center">
+
 | 영역 | 성과 |
 | :---: | :--- |
 | **배포 안정성** | ASG Blue-Green 배포로 **무중단 서비스** 구현 |
@@ -162,9 +168,13 @@
 | **협업 효율** | **Slack 통합** CI/CD로 배포 리드타임 단축 |
 | **관측 가능성** | 실시간 대시보드 및 피드백 루프 완성 |
 
+</div>
+
 ---
 
 ## 📅 프로젝트 정보
+
+<div align="center">
 
 | 구분 | 내용 |
 | :---: | :--- |
@@ -172,3 +182,5 @@
 | 행사 | SoftBank Hackathon 2025 |
 | 주제 | Fun-to-Deploy: 즐거운 배포 경험 구현 |
 | 기간 | 2025.10 ~ 2025.11 |
+
+</div>
