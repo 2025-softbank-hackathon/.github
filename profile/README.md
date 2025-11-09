@@ -1,37 +1,35 @@
-<div align="center">
+<h1 align="center">🌩️ 2025 소프트뱅크 해커톤</h1>
+<h3 align="center"><em>“클라우드로 미래를 만들다”</em></h3>
 
-# 🌩️ 2025 소프트뱅크 해커톤
-> “클라우드로 미래를 만들다”
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS CodePipeline-527FFF?logo=awscodepipeline&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS CodeBuild-FF9900?logo=awscodebuild&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS CodeDeploy-FF9900?logo=awscodedeploy&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?logo=awslambda&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS CodePipeline-527FFF?logo=awscodepipeline&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS CodeBuild-FF9900?logo=awscodebuild&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS CodeDeploy-FF9900?logo=awscodedeploy&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?logo=awslambda&logoColor=white" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JaCoCo-D82623?logo=jacoco&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JaCoCo-D82623?logo=jacoco&logoColor=white" />
 </p>
 
 <hr>
@@ -67,12 +65,14 @@
   <img width="900" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/2ef69f6b-d853-4ced-9cbc-e368f9d8ff46" />
 </p>
 
-✅ **CloudFront + S3**로 정적 리소스 배포
-✅ **WAF + ALB**를 통한 HTTPS 트래픽 보호
-✅ **멀티 AZ Blue/Green ASG**로 고가용성 확보
-✅ **Redis Pub/Sub**으로 실시간 메시징
-✅ **DynamoDB**로 메시지 로그 관리 및 확장성 확보
-✅ **CloudWatch** 기반 모니터링 및 알림 시스템
+<p align="center">
+✅ <strong>CloudFront + S3</strong>로 정적 리소스 배포
+✅ <strong>WAF + ALB</strong>를 통한 HTTPS 트래픽 보호
+✅ <strong>멀티 AZ Blue/Green ASG</strong>로 고가용성 확보
+✅ <strong>Redis Pub/Sub</strong>으로 실시간 메시징
+✅ <strong>DynamoDB</strong>로 메시지 로그 관리 및 확장성 확보
+✅ <strong>CloudWatch</strong> 기반 모니터링 및 알림 시스템
+</p>
 
 <hr>
 
@@ -86,10 +86,10 @@
 
 > GitHub → CodePipeline → CodeBuild → CodeDeploy → EC2 (Blue/Green)
 
-1.  **Source**: GitHub에서 소스 아티팩트 생성
-2.  **Test (Optional)**: 단위 테스트 수행
-3.  **Build**: `.jar` 빌드 및 ECR 업로드
-4.  **Deploy**: CodeDeploy가 ASG를 관리하며 헬스체크 후 트래픽 전환
+1.  **Source**: GitHub에서 소스 아티팩트 생성
+2.  **Test (Optional)**: 단위 테스트 수행
+3.  **Build**: `.jar` 빌드 및 ECR 업로드
+4.  **Deploy**: CodeDeploy가 ASG를 관리하며 헬스체크 후 트래픽 전환
 
 <br>
 
@@ -139,6 +139,8 @@
 
 <h2 align="center">🔬 성능 검증: 부하 테스트 결과</h2>
 
+<div align="center">
+
 | 항목 | 결과 |
 |:---:|:---:|
 | 테스트 인원 | 100명 |
@@ -146,6 +148,7 @@
 | 평균 응답 시간 | 60ms |
 | 최대 응답 시간 | 400ms |
 
+</div>
 <br>
 
 <p align="center">
@@ -159,6 +162,8 @@
 
 <h2 align="center">📊 핵심 성과</h2>
 
+<div align="center">
+
 | 영역 | 성과 |
 | :---: | :--- |
 | **배포 안정성** | ASG Blue-Green 배포로 **무중단 서비스** 구현 |
@@ -166,9 +171,12 @@
 | **협업 효율** | **Slack 통합** CI/CD로 배포 리드타임 단축 |
 | **관측 가능성** | 실시간 대시보드 및 피드백 루프 완성 |
 
+</div>
 <br>
 
 <h2 align="center">📅 프로젝트 정보</h2>
+
+<div align="center">
 
 | 구분 | 내용 |
 | :---: | :--- |
