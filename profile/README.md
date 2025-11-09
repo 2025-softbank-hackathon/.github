@@ -63,7 +63,7 @@
 > * ✅ <font color="white">**Slack 통합 제어**: Slash Command로 워크플로우별 유연한 배포 관리</font>
 > * ✅ <font color="white">**실시간 피드백**: 배포 상태를 시각화하고 Slack 알림으로 즉각 확인</font>
 >
-> <font color="white">반복적인 배포 과정을 **“보는 재미와 안정성이 공존하는 경험”**으로 재구성.</font>
+> <font color="white">반복적인 배포 과정을 “보는 재미와 안정성이 공존하는 경험”으로 재구성.</font>
 
 ---
 
@@ -72,7 +72,7 @@
 > <font color="white">Terraform 기반 IaC를 통해</font>
 > <font color="white">**ASG Blue-Green 무중단 배포**, **VPC 네트워킹**, **CI/CD 자동화**, **Observability 구축**을 수행했습니다.</font>
 > <font color="white">전체 인프라는 **AWS Well-Architected Framework 6대 원칙**</font>
-> <font color="white">(운영 우수성, 보안, 신뢰성, 성능 효율, 비용 최적화, 지속 가능성)에 기반해 설계되었습니다.</font>
+> <font color="white">(운영 우수성, 보안, 신뢰성, 성능 효율, 비용 최적화, 지속 가능성)에 기반해 설계.</font>
 
 <p align="center">
   <img width="90%" alt="Cloud Architecture" src="https://github.com/user-attachments/assets/2ef69f6b-d853-4ced-9cbc-e368f9d8ff46" />
