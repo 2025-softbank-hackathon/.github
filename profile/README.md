@@ -140,14 +140,14 @@
 
 ## 📈 부하 테스트 결과
 
-<div align="center">
+
 | 항목 | 결과 |
 |:---:|:---:|
 | 테스트 인원 | 100명 |
 | RPS | 10 × (1…3) |
 | 평균 응답 시간 | 60ms |
 | 최대 응답 시간 | 400ms |
-</div>
+
 </div>
 
 <p align="center">
@@ -158,7 +158,7 @@
 
 ## 🏆 핵심 성과
 
-<div align="center">
+
 
 | 영역 | 성과 |
 | :---: | :--- |
@@ -167,7 +167,7 @@
 | **협업 효율** | **Slack 통합** CI/CD로 배포 리드타임 단축 |
 | **관측 가능성** | 실시간 대시보드 및 피드백 루프 완성 |
 
-</div>
+
 
 ---
 
@@ -175,7 +175,7 @@
 
 <div align="center">
 <img width="685" height="833" alt="채팅서비스" src="https://github.com/user-attachments/assets/bdf8eea0-5319-43ef-955f-1bc2b400a2e2" />
-
+</div>
 | 구분 | 내용 |
 | :---: | :--- |
 | 팀명 | `ORANGE` |
