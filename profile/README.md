@@ -137,7 +137,7 @@
 </p>
 
 ---
-
+<div align="center">
 ## 📈 부하 테스트 결과
 
 <div align="center">
@@ -183,4 +183,5 @@
 | 주제 | Fun-to-Deploy: 즐거운 배포 경험 구현 |
 | 기간 | 2025.10 ~ 2025.11 |
 
+</div>
 </div>
