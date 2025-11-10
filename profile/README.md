@@ -62,7 +62,7 @@
 - **팀명**: ORANGE
 - **행사**: SoftBank Hackathon 2025
 - **기간**: 2025.10 ~ 2025.11
-- **주제**: Fun-to-Deploy: 즐거운 배포 경험 구현
+- **주제**: Make Deployment Delightful: 즐거운 배포 경험 구현
 
 </td>
 <td width="50%">
