@@ -4,6 +4,41 @@
 > <font color="white">“클라우드로 미래를 만들다”</font>
 
 ---
+
+<table align="center">
+  <tr>
+    <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
+    <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
+    <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
+    <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
+    <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
+  </tr>
+  <tr>
+    <td>
+      <b>[DongilMin](https://github.com/DongilMin)</b><br>
+      <sub>Cloud Infra</sub>
+    </td>
+    <td>
+      <b>[Teammate2](https://github.com/Teammate2)</b><br>
+      <sub>Backend</sub>
+    </td>
+    <td>
+      <b>[Teammate3](https://github.com/Teammate3)</b><br>
+      <sub>Frontend</sub>
+    </td>
+    <td>
+      <b>[Teammate4](https://github.com/Teammate4)</b><br>
+      <sub>AI / Data</sub>
+    </td>
+    <td>
+      <b>[Teammate5](https://github.com/Teammate5)</b><br>
+      <sub>Design / PM</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 <br>
 
 ### ☁️ Infra & Orchestration
