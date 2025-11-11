@@ -9,9 +9,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=최우수상&fontSize=60&fontColor=FFD700&animation=twinkling">
   <img alt="award banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=최우수상&fontSize=60&fontColor=FFD700&animation=twinkling">
 </picture>
-<h1 align="center">
-  🏆 <span style="color:#FFD700;">최우수상 (Grand Prize)</span> 🏆
-</h1>
 
 <table align="center" style="table-layout: fixed; width: 100%;">
   <tr>
