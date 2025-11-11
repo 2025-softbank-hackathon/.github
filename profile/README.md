@@ -5,7 +5,10 @@
 
 ---
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=최우수상%20수상&fontSize=50&fontColor=FFD700&animation=twinkling">
+  <img alt="award banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=최우수상%20수상&fontSize=50&fontColor=FFD700&animation=twinkling">
+</picture>
 <h1 align="center">
   🏆 <span style="color:#FFD700;">최우수상 (Grand Prize)</span> 🏆
 </h1>
