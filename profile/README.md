@@ -194,3 +194,5 @@
 ---
 
 <img width="685" height="833" alt="채팅서비스" src="https://github.com/user-attachments/assets/bdf8eea0-5319-43ef-955f-1bc2b400a2e2" />
+<img width="1099" height="237" alt="스크린샷 2025-11-11 11 27 42" src="https://github.com/user-attachments/assets/82be4549-8f91-4886-9384-914c7420a4dc" />
+
