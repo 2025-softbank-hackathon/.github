@@ -5,9 +5,20 @@
 
 ---
 
-<h2 align="center">
-  🏆 <span style="color:#FFD700;">최우수상 (Grand Prize)</span> 🏆
-</h2>
+
+<div style="
+  display: inline-block;
+  background: linear-gradient(135deg, #FFD700 0%, #FFB700 100%);
+  color: #000;
+  padding: 8px 24px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 18px;
+  box-shadow: 0 0 10px rgba(255, 215, 0, 0.6);
+  margin: 10px 0 20px 0;
+">
+🏆 최우수상 (Grand Prize) 🏆
+</div>
 
 <table align="center">
   <tr>
