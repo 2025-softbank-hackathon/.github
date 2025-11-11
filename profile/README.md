@@ -13,7 +13,7 @@
 <table align="center" style="table-layout: fixed; width: 100%;">
   <tr>
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
-    <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
+    <td><img width="150" alt="최우수상-이유진" src="[https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4](https://github.com/user-attachments/files/23471022/_.pdf)" /></td>
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
