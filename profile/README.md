@@ -14,7 +14,7 @@
   <tr>
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
     <td><img width="150" alt="최우수상-이유진" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
-    <td><img width="150" alt="최우수상-정호원" src="![최우수상_정호원](https://github.com/user-attachments/assets/a62769bd-5055-4bfd-9ce8-260423fbc0a1)" /></td>
+    <td><img width="150" alt="최우수상-정호원" src="https://github.com/user-attachments/assets/a62769bd-5055-4bfd-9ce8-260423fbc0a1" /></td>
     <td><img width="150" alt="최우수상-김동윤" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
     <td><img width="150" alt="최우수상-나영민" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
   </tr>
