@@ -6,21 +6,11 @@
 ---
 
 
-<div style="
-  display: inline-block;
-  background: linear-gradient(135deg, #FFD700 0%, #FFB700 100%);
-  color: #000;
-  padding: 8px 24px;
-  border-radius: 50px;
-  font-weight: 700;
-  font-size: 18px;
-  box-shadow: 0 0 10px rgba(255, 215, 0, 0.6);
-  margin: 10px 0 20px 0;
-">
-🏆 최우수상 (Grand Prize) 🏆
-</div>
+<h1 align="center">
+  🏆 <span style="color:#FFD700;">최우수상 (Grand Prize)</span> 🏆
+</h1>
 
-<table align="center">
+<table align="center" style="table-layout: fixed; width: 100%;">
   <tr>
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
