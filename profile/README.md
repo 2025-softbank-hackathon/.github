@@ -23,7 +23,7 @@
     <td><a href="https://github.com/Leeyoujin00"><b>Youjin Lee</b></a><br><sub>Develop</sub></td>
     <td><a href="https://github.com/ONE0x393"><b>Howon Jeong</b></a><br><sub>CI</sub></td>
     <td><a href="https://github.com/BusanGukbap"><b>Dongyoon Kim</b></a><br><sub>Observability</sub></td>
-    <td><a href="https://github.com/skdudals99"><b>Yeongmin Na</b></a><br><sub>CD</sub></td>
+    <td><a href="https://github.com/skdudals99"><b>Youngmin Na</b></a><br><sub>CD</sub></td>
   </tr>
 </table>
 
