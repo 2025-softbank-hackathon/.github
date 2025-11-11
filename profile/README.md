@@ -14,26 +14,11 @@
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
   </tr>
   <tr>
-    <td>
-      <b>[DongilMin](https://github.com/DongilMin)</b><br>
-      <sub>Cloud Infra</sub>
-    </td>
-    <td>
-      <b>[Teammate2](https://github.com/Teammate2)</b><br>
-      <sub>Backend</sub>
-    </td>
-    <td>
-      <b>[Teammate3](https://github.com/Teammate3)</b><br>
-      <sub>Frontend</sub>
-    </td>
-    <td>
-      <b>[Teammate4](https://github.com/Teammate4)</b><br>
-      <sub>AI / Data</sub>
-    </td>
-    <td>
-      <b>[Teammate5](https://github.com/Teammate5)</b><br>
-      <sub>Design / PM</sub>
-    </td>
+    <td><a href="https://github.com/DongilMin"><b>Dongil Min</b></a><br><sub>Cloud Infra</sub></td>
+    <td><a href="https://github.com/Leeyoujin00"><b>YuJin Lee</b></a><br><sub>Develop</sub></td>
+    <td><a href="https://github.com/ONE0x393"><b>HoWon Jeong</b></a><br><sub>CI</sub></td>
+    <td><a href="https://github.com/BusanGukbap"><b>DongYoon Kim</b></a><br><sub>Observability</sub></td>
+    <td><a href="https://github.com/skdudals99"><b>YeongMin Na</b></a><br><sub>CD</sub></td>
   </tr>
 </table>
 
