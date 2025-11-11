@@ -5,6 +5,10 @@
 
 ---
 
+<h2 align="center">
+  🏆 <span style="color:#FFD700;">최우수상 (Grand Prize)</span> 🏆
+</h2>
+
 <table align="center">
   <tr>
     <td><img width="150" alt="최우수상-민동일" src="https://github.com/user-attachments/assets/32e26e44-a100-4978-8d7c-e395a38029a4" /></td>
