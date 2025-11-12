@@ -6,7 +6,7 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=최우수상%20(1st%20Place)&fontSize=60&fontColor=FFD700&animation=twinkling">
+  <img media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=최우수상%20(1st%20Place)&fontSize=60&fontColor=FFD700&animation=twinkling">
   <img alt="award banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=최우수상%20(1st%20Place)&fontSize=60&fontColor=FFD700&animation=twinkling">
 </picture>
 
