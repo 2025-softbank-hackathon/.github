@@ -116,7 +116,7 @@
 
 > * ✅ <font color="white">Terraform Provisioning</font>
 > * ✅ <font color="white">ASG Blue-Green 무중단 배포, VPC 네트워킹, CI/CD 자동화, Observability 구축</font>
-> * ✅<font color="white">AWS Well-Architected Framework 6대 원칙에 기반한 인프라 구축</font>
+> * ✅ <font color="white">AWS Well-Architected Framework 6대 원칙에 기반한 인프라 구축</font>
 > * ✅ <font color="white">운영 우수성, 보안, 신뢰성, 성능 효율, 비용 최적화, 지속 가능성에 기반해 설계</font>
 
 <p align="center">
