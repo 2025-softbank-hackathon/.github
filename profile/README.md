@@ -105,7 +105,7 @@
 >
 > * ✅ <font color="white">**시간 효율화**: 전체 CI/CD를 항상 실행하지 않고 필요한 Step만 선택해 배포 시간 단축</font>
 > * ✅ <font color="white">**Fun-to-Deploy**: 대시보드 시각화·애니메이션·BGM으로 배포를 이벤트화</font>
-> * ✅ <font color="white">**Slack 통합 제어**: Slash Command로 워크플로우별 유연한 배포 관리</font>
+> * ✅ <font color="white">**Slack 통합 제어**: Slack API App로 워크플로우별 유연한 배포 관리</font>
 > * ✅ <font color="white">**실시간 피드백**: 배포 상태를 시각화하고 Slack 알림으로 즉각 확인</font>
 >
 > <font color="white">반복적인 배포 과정을 “보는 재미와 안정성이 공존하는 경험”으로 재구성.</font>
@@ -158,7 +158,7 @@
 
 ## 💬 Slack 연동 워크플로우
 
-> * <font color="white">Slash Command 기반 배포 제어</font>
+> * <font color="white">Slack API App 기반 배포 제어</font>
 > * <font color="white">커밋 메시지 `deploy: auto` 시 자동 트리거</font>
 > * <font color="white">Slack 알림 내 `Go to Dashboard` 버튼으로 이동</font>
 
